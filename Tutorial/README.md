@@ -47,4 +47,12 @@ Step3: Browse the results for each of the putative proteins.
 
 **Discussion: What type of functions did we identify? **
 
+## 3 To go further
+
+Step1: Go to [the CARD database](https://card.mcmaster.ca/)
+
+Step2: Navigate to the [BLAST tool on their website](https://card.mcmaster.ca/analyze/blast) and run the tool on the first protein sequence.
+
+**Discussion: What can you learn about that protein functions? in which organism is it usually found?**
+
 
